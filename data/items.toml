@@ -1,0 +1,15 @@
+[[items]]
+title = "Day 19 Hugo"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "Hugo & Github Setup"
+description = "Hugo & Github Setup"
+url = "https://gohugo.io/hosting-and-deployment/hosting-on-github/"
+
+[[items]]
+title = "Day 18 Webpack"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "webpack and packpage.json"
+description = "webpack and packpage.json"
+url = "https://ui.dev/webpack/"
