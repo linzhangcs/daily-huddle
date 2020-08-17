@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://linzhangcs.github.io/"
+baseurl = "https://linzhangcs.github.io/daily-huddle/"
 languageCode = "en-us"
 title = "Lin's Daily Huddle"
 # theme = "hugrid"
